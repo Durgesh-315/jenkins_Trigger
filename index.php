@@ -1,5 +1,5 @@
 <?php
 
-print "first code!!";
+print "first code!! sec code ";
 
 ?>
